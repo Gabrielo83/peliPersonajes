@@ -14,8 +14,16 @@ buildNumber.properties
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### IntelliJ IDEA ###
+###SPRING TOOLS###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
+### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
